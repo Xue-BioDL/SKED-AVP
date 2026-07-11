@@ -10,7 +10,10 @@ In this study, we propose a multi-feature fusion model named **SKED-AVP** for an
 
 <h2>Overall Framework</h2>
 
-<img src="https://github.com/user-attachments/assets/950fdaaf-a7f5-4d1d-8310-f55a50bc7261" alt="The overall framework of SKED-AVP" width="100%">
-
+<p align="center">
+  <img src="./fig/SKED_AVP_framework.png"
+       alt="The overall framework of SKED-AVP"
+       width="100%">
+</p>
 
 <br>
